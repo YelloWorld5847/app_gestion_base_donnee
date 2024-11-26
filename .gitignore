@@ -1,0 +1,8 @@
+.venv
+.idea
+famille.db
+family.db
+secret.key
+db
+Azure-ttk-theme-main
+pysqlcipher3
