@@ -1,4 +1,4 @@
-# Application de gestion de base de donnée.
+# Application de gestion d'adhérents.
 dernière version : 'nouvelle_cotisation'
 
 
@@ -6,4 +6,4 @@ dernière version : 'nouvelle_cotisation'
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-l'application est fonctionnel mais le dévelopement des petites fonctionnalité à été mit en pause pour une duré indéterminé.
+l'application est fonctionnelle mais le dévelopement des petites fonctionnalité a été mis en pause pour une durée indéterminée.
